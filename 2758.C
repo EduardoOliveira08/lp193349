@@ -1,3 +1,15 @@
+/* --------------------------------------------------------------------------
+Nome        : Eduardo Ribeiro de Oliveira
+RA          : 193349
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Linguagem   : C
+Plataforma  : https://judge.beecrowd.com/pt/search
+Exercício   : 2758
+Data        : 07/04/2026
+Objetivo    : Diferentes formas de imprimir um número float e double.
+Aprendizado : AS diferentes manipulações que uma variável pode sofrer ao ser impressa.
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 
 int main()
