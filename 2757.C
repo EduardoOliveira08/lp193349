@@ -1,3 +1,15 @@
+/* --------------------------------------------------------------------------
+Nome        : Eduardo Ribeiro de Oliveira
+RA          : 193349
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Linguagem   : C
+Plataforma  : https://judge.beecrowd.com/pt/search
+Exercício   : 2757
+Data        : 09/04/2026
+Objetivo    : Imprimir um número de diferentes formas.
+Aprendizado : A manipulação de formas de impressão para cada caso no qual foi pedido. 
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 
 int main()
