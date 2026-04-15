@@ -1,11 +1,15 @@
-/******************************************************************************
+/* --------------------------------------------------------------------------
+Nome        : Eduardo Ribeiro de Oliveira
+RA          : 193349
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Linguagem   : C
+Plataforma  : https://judge.beecrowd.com/pt/search
+Exercício   : 1000
+Data        : 07/04/2026
+Objetivo    : Verificar qual dos três número é o maior.
+Aprendizado : Utilização de lógica ao atribuir variáveis para realizar o cálculo de variável foi lida com o maior valor. 
+-------------------------------------------------------------------------- */
 
-Welcome to GDB Online.
-  GDB online is an online compiler and debugger tool for C, C++, Python, PHP, Ruby, 
-  C#, OCaml, VB, Perl, Swift, Prolog, Javascript, Pascal, COBOL, HTML, CSS, JS
-  Code, Compile, Run and Debug online from anywhere in world.
-
-*******************************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
 
