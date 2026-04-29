@@ -1,64 +1,74 @@
-📘 Lógica de Programação – Exercícios em C
+# 🚀 Lógica de Programação em C
+## 📚 UNIFESP | Ciência e Tecnologia – 1º Semestre
 
-Este repositório contém a resolução de exercícios desenvolvidos durante a disciplina de Lógica de Programação, cursada no 1º semestre da graduação em Bacharelado Interdisciplinar em Ciência e Tecnologia na UNIFESP – Campus São José dos Campos.
 
-🎯 Objetivo
+## 🧠 Sobre o Repositório
 
-O objetivo deste repositório é:
+Este repositório reúne exercícios desenvolvidos na disciplina de **Lógica de Programação**,  
+cursada no **1º semestre** do curso de **Bacharelado Interdisciplinar em Ciência e Tecnologia**  
+na **UNIFESP – São José dos Campos**.
 
-Praticar os fundamentos da lógica de programação
-Desenvolver raciocínio computacional
-Consolidar conceitos básicos utilizando a linguagem C
-Servir como registro da evolução acadêmica ao longo da disciplina
-🧠 Conteúdo Abordado
+Os códigos foram escritos em **linguagem C** e fazem parte do processo de aprendizado  
+dos fundamentos da programação.
 
-Os exercícios cobrem os principais conceitos introdutórios de programação:
 
-Entrada e saída de dados (scanf, printf)
-Estruturas condicionais (if, else, switch)
-Estruturas de repetição (for, while, do-while)
-Vetores e matrizes
-Operações matemáticas
-Organização lógica de algoritmos
-💻 Linguagem Utilizada
-C
-📚 Fonte dos Exercícios
+## 🎯 Objetivos
 
-Os exercícios foram retirados da plataforma:
+- Desenvolver raciocínio lógico  
+- Aprender fundamentos da programação  
+- Resolver problemas computacionais  
+- Criar base sólida para disciplinas futuras  
+- Documentar evolução acadêmica  
 
-Beecrowd (antigo URI Online Judge)
 
-Eles foram utilizados como instrumento de prática e avaliação ao longo da disciplina.
+## 📚 Fonte dos Exercícios
 
-📁 Organização
+Os problemas foram retirados da plataforma:
 
-Os arquivos estão organizados de forma simples, geralmente nomeados de acordo com o número ou tema do exercício na plataforma Beecrowd.
+Beecrowd (URI Online Judge)
 
-Exemplo:
+Utilizada como ferramenta de prática e avaliação durante a disciplina.
 
-1001.c
-1002.c
-1078.c
 
-...
+## ⚙️ Tecnologias Utilizadas
 
-🚀 Como Executar
+- Linguagem: C  
+- Compilador: GCC  
+- Ambiente: VS Code / Terminal  
 
-Para compilar e executar os códigos, você pode usar o GCC:
 
-gcc nome_do_arquivo.c -o programa
-./programa
+## 📂 Estrutura do Repositório
 
-No Windows (PowerShell):
+exercicios/
+- 1001.c
+- 1002.c
+- 1010.c
+- 1078.c
+- ...
 
-gcc nome_do_arquivo.c -o programa
-.\programa
 
-📌 Observações
-Todos os códigos foram desenvolvidos com fins acadêmicos
-Algumas soluções podem não estar totalmente otimizadas, pois o foco principal é o aprendizado
-O repositório será atualizado conforme o avanço na disciplina
-👨‍🎓 Autor
+Os arquivos seguem a numeração dos problemas na plataforma Beecrowd.
 
-Eduardo Oliveira
-Graduando em Ciência e Tecnologia – UNIFESP
+
+## 📈 Progresso
+
+- Estruturas básicas ✔️  
+- Condicionais ✔️  
+- Laços de repetição ✔️  
+- Vetores e matrizes 🔄  
+- Problemas mais complexos ⏳  
+
+
+## 📌 Observações
+
+- Repositório com foco educacional  
+- Soluções priorizam clareza e aprendizado  
+- Pode conter diferentes abordagens para o mesmo problema  
+
+
+## 👨‍💻 Autor
+
+Eduardo Oliveira  
+
+Ciência e Tecnologia – UNIFESP  
+São José dos Campos – SP
