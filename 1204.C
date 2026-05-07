@@ -4,8 +4,8 @@ Nome        : Eduardo Ribeiro de Oliveira
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1204
 Data        : 07/05/2026
-Objetivo    : Realizar a Cifra de Cesar nas palavras embaralhadas.
-Aprendizado : A percorrer o alfabeto na tabela ascii e desembaralhar palavras.
+Objetivo    : Criptografar uma frase.
+Aprendizado : Manipulação de strings usando a tabela ASCII em várias etapas.
 -------------------------------------------------------------------------- */
 
 #include <stdio.h>
