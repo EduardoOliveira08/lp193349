@@ -1,3 +1,14 @@
+/* --------------------------------------------------------------------------
+Nome        : Eduardo Ribeiro de Oliveira
+RA          : 193349
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Linguagem   : C
+Plataforma  : https://judge.beecrowd.com/pt/1015
+Exercício   : 1015
+Data        : 14/05/2026
+Objetivo    : Calcular a distância de dois pontos.
+Aprendizado : Uso de funções para realizar o cálculo.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <math.h>
 
