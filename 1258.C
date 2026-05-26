@@ -1,3 +1,16 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Eduardo Ribeiro de Oliveira
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1258
+Data        : 25/01/2026
+Objetivo    : Organizar os alunos que queriam a camisa e suas informações.
+Aprendizado : O uso de struct e como ordenar e comparar vetores de struct
+Dúvidas     : Professor tive muitas dúvidas em como fazer, tanto que admito que apelei para a IA,
+mas tentei de muitas formas que o meu nível não correspondia, havia confusão sobre os parametrôs 
+da minha função e a manipulação dos ponteiros nesse caso foi difícil de se entender.
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
